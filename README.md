@@ -73,7 +73,7 @@ Home-line is a meteorjs system. - See [https://www.meteor.com](https://www.meteo
 It is a server based SPA (Single Page Appilcation)
 - Database is a mongodb. Business data objects are json objects
    
-  Example (A Topic object in the db):
+  Example (a Topic object in the db):
 ```
 {
     "_id" : "HZLyywrw9Sppt7Z7g",
