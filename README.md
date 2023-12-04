@@ -55,7 +55,7 @@ So lets run our home, our community on a liquid democracy platform, on the chain
   In such a way that nobody see each other's votes and the manager does not see anybody's vote either, while everybody can still check that their vote is correctly counted into the results. The current online version only supports public votings and the manager has to see everybody's votes because of the client-server architecture, since he is the one adding them up.
 - Communities can start issuing their own local currency. - 
   The community can decide to create a locally accepted currency that the members can use to pay each other for services provided by each other for each other. Example: I have time to babysit your kids tonight,  I receive some local tokens, and next week you help giving my son some math lessons.
-  Local economies can be born, where the local currency is baced by local's services.
+  Local economies can be born, where the local currency is backed by the local's services.
 
 ### Why a parachain?
 Polkadot is a perfect fit for such a governance and community  management sytem
