@@ -73,11 +73,36 @@ Home-line is a meteorjs system. - See [https://www.meteor.com](https://www.meteo
 It is a server based SPA (Single Page Appilcation)
 - Business object are a json objects, database is a mongo db
   example:
+```{
+    "_id" : "HZLyywrw9Sppt7Z7g",
+    "communityId" : "y38GnfKaWTgsmxrfB",
+    "category" : "vote",
+    "title" : "Tároló folyosó lezárása",
+    "text" : "Tisztelt Tulajdonsok! Kértünk be árajánlatokat a tároló folyosó kulccsal zárhatóvá tételére. Kérem, hogy szavazzanak hogy melyik megoldást válasszuk.",
+    "vote" : {
+        "procedure" : "online",
+        "effect" : "legal",
+        "type" : "choose",
+        "allowAddChoices" : false,
+        "choices" : [
+            "Nem kell zárható legyen",
+            "Kulccsal zárható legyen (13 900 Ft + 2800 Ft/kulcs)",
+            "Proxy-val zárható legyen (371 221 Ft)",
+            "Tartózkodom",
+            "Több információra lenne szükségem"
+        ]
+    },
+    "opensAt" : ISODate("2023-11-17T00:00:00.000+0000"),
+    "closesAt" : ISODate("2023-12-02T22:59:59.000+0000"),
+    "status" : "deciding",
+    "createdAt" : ISODate("2023-11-17T13:38:25.605+0000")
+    }
+ 
 - Users can call Methods on the db
   example:
 
 ### How to convert the meteorjs app into a parachain:
-It is pretty straightforward to convert a meteorjs app to a chain! (This is the main reason meteor was choosen as the framework of this app)
+It is pretty straightforward to convert a meteorjs app to a chain! (This is the main reason meteor was choosen as the framework for this app)
 - The UI of the current Home-line appication can be kept as it is
 - But the users instead of calling methods on the server they submit their method calls to the network
 - Para-chain blocks are built from these method calls
