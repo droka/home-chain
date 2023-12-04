@@ -157,8 +157,10 @@ But if we could select very good delegates very easily, and all it would take is
 1. Only for public votings.
    
    No system (human or AI) should get access to our private voting records!
+
+   Althout it is imaginable, that certain delegate candidates would intentionally de-anonimize their own private voting records in the hope of getting more voting power from others. In that case a strictly local running AI could read our votes and match that to de-anonymized voting records.
    
-2. It is not a replacement to the democratic voting process.
+3. It is not a replacement to the democratic voting process.
    
    Some say there is no voting needed in the future because AI can make the best decisions for us better than ourselves. This is NOT what this propsal is about! AI **should not the make decisions** instead of humans, because
    - The process then would be black box, we could not reason about it. So it could be easily hijacked. Without us even realizing.
