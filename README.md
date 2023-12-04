@@ -155,8 +155,11 @@ But if we could select very good delegates very easily, and all it would take is
 
 ## Warning !!
 1. Only for public votings.
+   
    No system (human or AI) should get access to our private voting records!
+   
 2. It is not a replacement to the democratic voting process.
+   
    Some say there is no voting needed in the future because AI can make the best decisions for us better than ourselves. This is NOT what this propsal is about! AI should not make decisions instead of humans, because
    - The process then would be black box, we could not reason about it. So it could be easily hijacked. Without us even realizing.
    - We should not encourage people to be lazy and get used to not being involved in the governance process at all. That would increase voter apathy on the long run instead of decreasing it. We all know that since GPS navigation became popular, people started to not be able to read paper maps. "If you don't use it, you'll loose it" - the saying goes (meaning skills).
