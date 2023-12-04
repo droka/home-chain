@@ -74,7 +74,8 @@ It is a server based SPA (Single Page Appilcation)
 - Database is a mongodb. Business data objects are json objects
    
   Example (A Topic object in the db):
-```{
+```
+{
     "_id" : "HZLyywrw9Sppt7Z7g",
     "communityId" : "y38GnfKaWTgsmxrfB",
     "category" : "vote",
@@ -97,13 +98,14 @@ It is a server based SPA (Single Page Appilcation)
     "closesAt" : ISODate("2023-12-02T22:59:59.000+0000"),
     "status" : "deciding",
     "createdAt" : ISODate("2023-11-17T13:38:25.605+0000")
-    }
+}
 ```
  
 - Users can call so called "Methods" to create or update objects in the database. Methods can be called only if user has the appropriate permissions.
   
   Example (Method for modifying a Comment object):
-```export const update = new ValidatedMethod({
+```
+export const update = new ValidatedMethod({
   name: 'comments.update',
   validate: new SimpleSchema({
     _id: { type: String, regEx: SimpleSchema.RegEx.Id },
