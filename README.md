@@ -30,6 +30,9 @@ The system is designed to fully handle all aspects of a community's management f
 [https://github.com/edmo/lidehouse](https://github.com/edemo/Lidehouse)
 (Lide house means liquid democracy house)
 
+### Full feature documentation (only in hungarian):
+[Home-line documentation - HUN](https://docs.google.com/document/d/1rCKTzCmbFJiX7F2QaLujmd8mTVmuEUWlsuqxf8_81SY)
+
 ## The proposed project:
 Home-line is a liquid democracy **online** governance system.
 Let's convert it to a parachain, to make it an **on-chain** governance system.
