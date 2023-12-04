@@ -72,7 +72,7 @@ It is a server based SPA (Single Page Appilcation)
 - Users can call Methods on the db
   example:
 
-How to convert the mmeteorjs app into a parachain:
+How to convert the meteorjs app into a parachain:
 It is pretty straightforward to convert a meteorjs app to a chain!
 - The UI of the current Home-line appication can be kept as it is
 - But the users instead of calling methods on the server they submit their method calls to the network
@@ -88,16 +88,14 @@ If the prize is won, the resources will be used to start the development work.
 
 How can AI assist a liquid democracy system:
 
-Fighting voter apathy:
+## Fighting voter apathy:
 AI can know us and our wishes better than ourselves by analizing our activity.
 For exampe on Social media, just by looking at a dozen likes, it can make recommendations what we will like in the future very accurately.
 Similarly an AI agent looking at a few of our votes in the liquid democracy system can give very good recomendation who should we delegate to, by finding those whose voting record matches ours.
 
-Warning !!
-
+## Warning !!
 1. Only for public votings.
    No system should get access to our private voting records!
-
 2. It is not a replacement to the democratic voting process.
    Some say there is no voting needed in the future because AI can make the decisions for us. This is NOT what this propsal is about! AI should not make decisions instead of the humans, because
    - The process then would become a black box, we could not reason about it. So it can be easily hijacked.
