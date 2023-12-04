@@ -45,9 +45,10 @@ The problems that need to be managed are very similar on all scales.
 - Issue tracking (Track the timeline and current status of the implementation of an accepted proposal)
 - Accounting (Create and track budgets, create official reports for the citizens and for the tax man)
 - Document store (Store the official documents of the community in one place, where everyone can access them)
+
 So lets run our home, our community on a liquid democracy platform, on the chain.
 
-Why make it a DAO?
+### Why make it a DAO?
 - Decentralized execution makes it less dependant on the officials (the condominum manager)
   Communities (Condominums are other types) benefit largely from decentralization. A corrupt offical cannot  silence the comments and proposals of the opposing members if the system is run on a chain instead of a server run by the offical himself.
 - Anonymous voting is possible
