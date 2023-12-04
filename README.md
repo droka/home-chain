@@ -71,9 +71,9 @@ Polkadot is a perfect fit for such a governance and community  management sytem
 Home-line is a meteorjs system. - See [https://www.meteor.com](https://www.meteor.com)
 
 It is a server based SPA (Single Page Appilcation)
-- Database is a mongodb. Business object are a json objects
+- Database is a mongodb. Business object are json objects
    
-  Example:
+  Example (A Topic object in the db):
 ```{
     "_id" : "HZLyywrw9Sppt7Z7g",
     "communityId" : "y38GnfKaWTgsmxrfB",
@@ -97,10 +97,28 @@ It is a server based SPA (Single Page Appilcation)
     "closesAt" : ISODate("2023-12-02T22:59:59.000+0000"),
     "status" : "deciding",
     "createdAt" : ISODate("2023-11-17T13:38:25.605+0000")
-    }```
+    }
+```
  
-- Users can call Methods on the db
-  example:
+- Users can call so called "Methods" to create or update objects in the database. Methods can be called only if user the appropriate permissions.
+  
+  Example (Method for modifying a Comment object):
+```export const update = new ValidatedMethod({
+  name: 'comments.update',
+  validate: new SimpleSchema({
+    _id: { type: String, regEx: SimpleSchema.RegEx.Id },
+    modifier: { type: Object, blackbox: true },
+  }).validator(),
+
+  run({ _id, modifier }) {
+    const doc = checkExists(Comments, _id);
+    const topic = checkExists(Topics, doc.topicId);
+    checkModifier(doc, modifier, Comments.modifiableFields);
+    checkPermissions(this.userId, `comments.update`, doc); // can only update your own comment
+    Comments.update(_id, modifier, { selector: { category: doc.category } });
+  },
+});
+```
 
 ### How to convert the meteorjs app into a parachain:
 It is pretty straightforward to convert a meteorjs app to a chain! (This is the main reason meteor was choosen as the framework for this app)
