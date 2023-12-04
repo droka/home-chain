@@ -73,7 +73,7 @@ Home-line is a meteorjs system. - See [https://www.meteor.com](https://www.meteo
 It is a server based SPA (Single Page Appilcation)
 - Database is a mongodb. Business data objects are json objects
    
-  Example (a Topic object in the db):
+  Example (a "Voting topic" object in the db):
 ```
 {
     "_id" : "HZLyywrw9Sppt7Z7g",
@@ -103,7 +103,7 @@ It is a server based SPA (Single Page Appilcation)
  
 - Users can call so called "Methods" to create or update objects in the database. Methods can be called only if user has the appropriate permissions.
   
-  Example (Method for modifying a Comment object):
+  Example (Method for modifying a "Comment" object):
 ```
 export const update = new ValidatedMethod({
   name: 'comments.update',
