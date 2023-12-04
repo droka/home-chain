@@ -1,5 +1,5 @@
 # home-chain
-On-chain governance for your community
+On-chain governance for your local community
 
 ## Introduction:
 **Home-line** is a recently built online community management system.
