@@ -71,8 +71,9 @@ Polkadot is a perfect fit for such a governance and community  management sytem
 Home-line is a meteorjs system. - See [https://www.meteor.com](https://www.meteor.com)
 
 It is a server based SPA (Single Page Appilcation)
-- Business object are a json objects, database is a mongo db
-  example:
+- Database is a mongodb. Business object are a json objects
+   
+  Example:
 ```{
     "_id" : "HZLyywrw9Sppt7Z7g",
     "communityId" : "y38GnfKaWTgsmxrfB",
@@ -96,7 +97,7 @@ It is a server based SPA (Single Page Appilcation)
     "closesAt" : ISODate("2023-12-02T22:59:59.000+0000"),
     "status" : "deciding",
     "createdAt" : ISODate("2023-11-17T13:38:25.605+0000")
-    }
+    }```
  
 - Users can call Methods on the db
   example:
