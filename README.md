@@ -137,7 +137,7 @@ If the prize is won, the resources will be used to start the development work.
 
 # AI extension to Liquid Democracy 
 
-How can AI assist our liquid democracy system:
+How can AI assist our on-chain liquid democracy system:
 
 ### Fighting voter apathy:
 AI can know us and our wishes better than we know ourselves (as scary as it sounds) by analizing our activity.
