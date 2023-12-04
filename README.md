@@ -131,7 +131,7 @@ It is pretty straightforward to convert a meteorjs app to a chain! (This is the 
 
 The process is pretty straightforward. Subtrate provides all the node functionalty, while each js method call has to be converted into a contract call in the runtime.
 
-If the prize is won, the resources will be used to start the development work.
+If the prize is won, the resources will be used to start the development work and make the conversion.
 
 -----------------------------------------------------------------
 
