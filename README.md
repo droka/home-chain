@@ -144,19 +144,20 @@ AI can know us and our wishes better than we know ourselves (as scary as it soun
 
 For exampe on Social media, just by looking at a dozen likes, AI can make recommendations very accurately about what else we will like in the future. So it can suggest us very relevant content.
 
-Similarly an AI looking at a few of our votes in the liquid democracy system can give us very good recommendations on who should we delegate our voting power to, by finding those users whose voting record matches ours most.
+Similarly an AI looking at a few of our votes in the liquid democracy system can give us very good recommendations on who should we delegate our voting power to, simply by finding those users whose voting record matches ours most.
 
 In Liquid Democracy systems the user always has the choice to either vote directly on proposals, or 
-they can choose to particate in certain types of votings via a delegate, handing over the voting power. Delegates can be selected for certain topic categories.
-Since most of us do not have the time cast direct votes on all proposals, if we don't know anyone competent to delegate to, it usually causes voter apathy. Neither a direct vote, nor a delegate is chosen. 
+they can choose to particate in certain types of votings via a delegate, handing over the voting power to someone they trust in that area. Delegates can be selected separately for different topic categories.
+
+Since most of us do not have the time to cast direct votes on all proposals, if we don't know anyone competent to delegate to, it usually causes voter apathy. Neither a direct vote, nor a delegate is chosen. A large part of the voting power stays away from particpating at all, leaving the decision in the hands of the few. 
 
 But if we could select very good delegates very easily, and all it would take is to cast a couple votes ourselves. Now this could change the attitude!
 
 ## Warning !!
 1. Only for public votings.
-   No system should get access to our private voting records!
+   No system (human or AI) should get access to our private voting records!
 2. It is not a replacement to the democratic voting process.
    Some say there is no voting needed in the future because AI can make the decisions for us. This is NOT what this propsal is about! AI should not make decisions instead of the humans, because
    - The process then would become a black box, we could not reason about it. So it can be easily hijacked.
-   - We should not make people get lazy and get used to not being involved in the  governance process. That would increase voter apathy instead of decreasing it.
+   - We should not make people get lazy and get used to not being involved in the  governance process. That would increase voter apathy on the long run instead of decreasing it.
    The proposed system should only recommend the user those delegates that best match the user's voting record, and hence make the selection of the best delegate easier. Once we have a good delegate, we still need to follow the governance process with one eye so to speak. Our delegate might change its preferences with time, or can even become corrupted, in which case we need to switch delegates. But switching becomes also easier with the provided recommendations.
