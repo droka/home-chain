@@ -140,7 +140,7 @@ If the prize is won, the resources will be used to start the development work.
 How can AI assist our liquid democracy system:
 
 ### Fighting voter apathy:
-AI can know us and our wishes better than ourselves by analizing our activity.
+AI can know us and our wishes better than we know ourselves (as scary as it sounds) by analizing our activity.
 
 For exampe on Social media, just by looking at a dozen likes, AI can make recommendations very accurately about what else we will like in the future. So it can suggest us very relevant content.
 
