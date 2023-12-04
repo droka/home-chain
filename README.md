@@ -100,7 +100,7 @@ It is a server based SPA (Single Page Appilcation)
     }
 ```
  
-- Users can call so called "Methods" to create or update objects in the database. Methods can be called only if user the appropriate permissions.
+- Users can call so called "Methods" to create or update objects in the database. Methods can be called only if user has the appropriate permissions.
   
   Example (Method for modifying a Comment object):
 ```export const update = new ValidatedMethod({
