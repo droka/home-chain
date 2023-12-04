@@ -60,10 +60,11 @@ So lets run our home, our community on a liquid democracy platform, on the chain
 ### Why a parachain?
 Polkadot is a perfect fit for such a governance and community  management sytem
 - Small communities can benefit from the strong security provided by the large Polkadot ecosystem
-- Home-chain can use elements of Polkadot OpenGov (tracks, approval curves, etc)
-  The current version uses a simple delegation system, and number of vote evalulation techniques, like single choice, multiple chopice, grading and Condorcet method, but the tracks and approval curves of OpenGov could enhance the sophisticatedness of the decision making process.
-- Hopefully some features of Home-chain can be integrated into pallets and offer other para-chains the opportunity to use these community management tools as well. Sharing is caring.
+- Home-chain can use elements of Polkadot OpenGov (tracks, approval curves, etc) - 
+  The current version uses a simple delegation system, and number of vote evalulation techniques, like single choice, multiple chopice, ranked votes and Condorcet method, but the tracks and approval curves of OpenGov could enhance the sophisticatedness of the decision making process.
+- Hopefully some features of Home-chain can be integrated into pallets and offer other para-chains the opportunity to use these community management tools as well. Sharing is caring. - 
   Think of Home-chain as a very smart wallet, that in addition to the traditonal governance, has features such as fully compliant accounting reports and issue tracking. Think of it as mixing the features of Nova wallet with a sophisticated CRM system, enjoying the benefits of both from within the same app.
+- The functionality of the app can change without the hassle of fork management. - Such a complex CRM app gets new functionalities very frequently. It is critical to develop in a framework where it causes no problem to update all node's code versions conveniently, possibly as frequently as daily.
 
 ## Technical implementation:
 
