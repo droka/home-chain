@@ -68,7 +68,7 @@ Polkadot is a perfect fit for such a governance and community  management sytem
 
 ## Technical implementation:
 
-Home-line is a meteorjs system. [https://www.meteor.com](https://www.meteor.com)
+Home-line is a meteorjs system. - See [https://www.meteor.com](https://www.meteor.com)
 
 It is a server based SPA (Single Page Appilcation)
 - Business object are a json objects, database is a mongo db
@@ -76,14 +76,15 @@ It is a server based SPA (Single Page Appilcation)
 - Users can call Methods on the db
   example:
 
-How to convert the meteorjs app into a parachain:
-It is pretty straightforward to convert a meteorjs app to a chain!
+### How to convert the meteorjs app into a parachain:
+It is pretty straightforward to convert a meteorjs app to a chain! (This is the main reason meteor was choosen as the framework of this app)
 - The UI of the current Home-line appication can be kept as it is
 - But the users instead of calling methods on the server they submit their method calls to the network
 - Para-chain blocks are built from these method calls
 - Para-chain validators execute the code in the method for the desired state transitions
 
-The process is pretty straightforward, each method call has to be converted into a contract call.
+The process is pretty straightforward. Subtrate provides all the node functionalty, while each js method call has to be converted into a contract call in the runtime.
+
 If the prize is won, the resources will be used to start the development work.
 
 -----------------------------------------------------------------
