@@ -24,8 +24,8 @@ The system is designed to fully handle all aspects of a community's management f
 - Document store
 
 ### Live Demo:
-[https://demo.honline.hu/demo?lang=en](English demo)
-[https://demo.honline.hu/demo?lang=hu](Hungarian demo)
+[English demo](https://demo.honline.hu/demo?lang=en)
+[Hungarian demo](https://demo.honline.hu/demo?lang=hu)
 
 ### Code: (fully open source)
 [https://github.com/edmo/lidehouse](https://github.com/edemo/Lidehouse)
