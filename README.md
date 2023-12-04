@@ -137,15 +137,20 @@ If the prize is won, the resources will be used to start the development work.
 
 # AI extension to Liquid Democracy 
 
-How can AI assist a liquid democracy system:
+How can AI assist our liquid democracy system:
 
 ### Fighting voter apathy:
 AI can know us and our wishes better than ourselves by analizing our activity.
 
-For exampe on Social media, just by looking at a dozen likes, AI can make recommendations very accurately about what else we will like in the future. So it can give suggest us very relevant content.
+For exampe on Social media, just by looking at a dozen likes, AI can make recommendations very accurately about what else we will like in the future. So it can suggest us very relevant content.
 
-Similarly an AI looking at a few of our votes in the liquid democracy system can give us very good recommendations on who should we delegate our vote to, if decide to particate in certain types of votings via a delegate and not directly, to save time. 
-By finding those users whose voting record matches ours most we can get very good recommendations on selecting our delegates. Since most of us does not have the time do direct voting on all proposals, it usually causes voter apathy. But if we could select very good delegates very easily, it could change this attitude.
+Similarly an AI looking at a few of our votes in the liquid democracy system can give us very good recommendations on who should we delegate our voting power to, by finding those users whose voting record matches ours most.
+
+In Liquid Democracy systems the user always has the choice to either vote directly on proposals, or 
+they can choose to particate in certain types of votings via a delegate, handing over the voting power. Delegates can be selected for certain topic categories.
+Since most of us do not have the time cast direct votes on all proposals, if we don't know anyone competent to delegate to, it usually causes voter apathy. Neither a direct vote, nor a delegate is chosen. 
+
+But if we could select very good delegates very easily, and all it would take is to cast a couple votes ourselves. Now this could change the attitude!
 
 ## Warning !!
 1. Only for public votings.
