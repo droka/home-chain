@@ -1,7 +1,7 @@
 # home-chain
 On-chain governance for your community
 
-##Introduction:
+## Introduction:
 **Home-line** is a recently built online community management system.
 - 4 years of development work
 - fully open source
