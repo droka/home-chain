@@ -23,15 +23,15 @@ The system is designed to fully handle all aspects of a community's management f
 - Accounting
 - Document store
 
-##Live Demo:
+### Live Demo:
 [https://demo.honline.hu](https://honline.hu)
 (press DEMO button at the top)
 
-##Code: (fully open source)
+### Code: (fully open source)
 [https://github.com/edmo/lidehouse](https://github.com/edemo/Lidehouse)
 (Lide house means liquid democracy house)
 
-##The proposed project:
+## The proposed project:
 Home-line is a liquid democracy **online** governance system.
 Let's convert it to a parachain, to make it an **on-chain** governance system.
 Hence the new name Home-chain.
@@ -54,7 +54,7 @@ Why make it a DAO?
   The community can decide to create a locally accepted currency that the members can use to pay each other for services provided by each other for each other. Example: I have time to babysit your kids tonight,  I receive some ocal tokens, and next week you help giving my son some math lessons.
   Local economies can be born, where the local currency is baced by local's services.
 
-Why a parachain?
+### Why a parachain?
 Polkadot is a perfect fit for such a governance and community  management sytem
 - Small communities can benefit from the strong security provided by the large Polkadot ecosystem
 - Home-chain can use elements of Polkadot OpenGov (tracks, approval curves, etc)
@@ -62,9 +62,10 @@ Polkadot is a perfect fit for such a governance and community  management sytem
 - Hopefully some features of Home-chain can be integrated into pallets and give other para-chains the opportunity to use these community management tools.
   Think of Home-chain as a very smart wallet, that in addition to the traditonal governance, has features dsuch as fully compliant accounting reports and issue tracking. Think of it as mixing the features of Nova wallet with a sophisticated CRM system, enjoying the benefits of both from within the same app.
 
-##Technical implementation:
+## Technical implementation:
 
 Home-line is a meteorjs system. [https://www.meteor.com](https://www.meteor.com)
+
 It is a server based SPA (Single Page Appilcation)
 - Business object are a json objects, database is a mongo db
   example:
@@ -83,7 +84,7 @@ If the prize is won, the resources will be used to start the development work.
 
 -----------------------------------------------------------------
 
-AI extension to Liquid Democracy 
+# AI extension to Liquid Democracy 
 
 How can AI assist a liquid democracy system:
 
