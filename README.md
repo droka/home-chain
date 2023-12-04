@@ -139,10 +139,13 @@ If the prize is won, the resources will be used to start the development work.
 
 How can AI assist a liquid democracy system:
 
-## Fighting voter apathy:
+### Fighting voter apathy:
 AI can know us and our wishes better than ourselves by analizing our activity.
-For exampe on Social media, just by looking at a dozen likes, it can make recommendations what we will like in the future very accurately.
-Similarly an AI agent looking at a few of our votes in the liquid democracy system can give very good recomendation who should we delegate to, by finding those whose voting record matches ours.
+
+For exampe on Social media, just by looking at a dozen likes, AI can make recommendations very accurately about what else we will like in the future. So it can give suggest us very relevant content.
+
+Similarly an AI looking at a few of our votes in the liquid democracy system can give us very good recommendations on who should we delegate our vote to, if decide to particate in certain types of votings via a delegate and not directly, to save time. 
+By finding those users whose voting record matches ours most we can get very good recommendations on selecting our delegates. Since most of us does not have the time do direct voting on all proposals, it usually causes voter apathy. But if we could select very good delegates very easily, it could change this attitude.
 
 ## Warning !!
 1. Only for public votings.
