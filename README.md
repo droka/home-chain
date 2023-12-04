@@ -49,7 +49,7 @@ Why make it a DAO?
 - Decentralized execution makes it less dependant on the officials (the condominum manager)
   Communities (Condominums are other types) benefit largely from decentralization. A corrupt offical cannot  silence the comments and proposals of the opposing members if the system is run on a chain instead of a server run by the offical himself.
 - Anonymous voting is possible
-  In such a way that nobody see each other's votes and the manager  does not see anybody's vote either, while everybody can still check that their vote is correctly counted into the results. The current online version only supports public votinigs and the manager has to know everybody's votes because of the client-server architecture, he is the one adding them up.
+  In such a way that nobody see each other's votes and the manager does not see anybody's vote either, while everybody can still check that their vote is correctly counted into the results. The current online version only supports public votinigs and the manager has to know everybody's votes because of the client-server architecture, he is the one adding them up.
 - Communities can start issuing their own local currency
   The community can decide to create a locally accepted currency that the members can use to pay each other for services provided by each other for each other. Example: I have time to babysit your kids tonight,  I receive some ocal tokens, and next week you help giving my son some math lessons.
   Local economies can be born, where the local currency is baced by local's services.
@@ -59,8 +59,8 @@ Polkadot is a perfect fit for such a governance and community  management sytem
 - Small communities can benefit from the strong security provided by the large Polkadot ecosystem
 - Home-chain can use elements of Polkadot OpenGov (tracks, approval curves, etc)
   The current version uses a simple delegation system, and number of vote evalulation techniques, like single choice, multiple chopice, grading and Condorcet method, but the tracks and approval curves of OpenGov could enhance the sophisticatedness of the decision making process.
-- Hopefully some features of Home-chain can be integrated into pallets and give other para-chains the opportunity to use these community management tools.
-  Think of Home-chain as a very smart wallet, that in addition to the traditonal governance, has features dsuch as fully compliant accounting reports and issue tracking. Think of it as mixing the features of Nova wallet with a sophisticated CRM system, enjoying the benefits of both from within the same app.
+- Hopefully some features of Home-chain can be integrated into pallets and offer other para-chains the opportunity to use these community management tools as well. Sharing is caring.
+  Think of Home-chain as a very smart wallet, that in addition to the traditonal governance, has features such as fully compliant accounting reports and issue tracking. Think of it as mixing the features of Nova wallet with a sophisticated CRM system, enjoying the benefits of both from within the same app.
 
 ## Technical implementation:
 
