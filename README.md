@@ -13,7 +13,7 @@ Currently used in Condominium buildings in Hungary (around 500 active users atm)
 Condominiums are a perfect fit for such system. They are a community of flat owers. They have lots of issues to track, decisions to make and agree on budgets. Trancparency of the money movements is very immportant. They can benefit higly from the online liquid democracy process. Decision making is much easier that way, compared to long annual owners meetings.
 (Hence the name **Home-line**. "Manage your home online from home, conveniently.")
 
-But **Home-line** can manage all types of communities (namely company, foundation, simple association, permaculture co-operative aka basked community, stc) and supports multiple languages (currently hun and eng, but new translation files can be added easily)
+But **Home-line** can manage all types of communities (namely company, foundation, simple association, permaculture co-operative aka. basket community, stc) and supports multiple languages (currently hun and eng, but new translation files can be added easily)
 
 The system is designed to fully handle all aspects of a community's management from one place
 - Discussion board
