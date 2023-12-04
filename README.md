@@ -50,11 +50,11 @@ So lets run our home, our community on a liquid democracy platform, on the chain
 
 ### Why make it a DAO?
 - Decentralized execution makes it less dependant on the elected officials (like the condominum manager). - 
-  Communities (Condominums are other types) benefit largely from decentralization. A corrupt offical cannot  silence the comments and proposals of the opposing members if the system is run on a chain instead of a server run by the offical himself.
+  Communities (Condominums are other types) benefit largely from decentralization. A corrupt offical cannot  silence the comments and proposals of the opposing members if the system is run on a chain instead of a server ran by the offical himself.
 - Anonymous voting is possible. -
-  In such a way that nobody see each other's votes and the manager does not see anybody's vote either, while everybody can still check that their vote is correctly counted into the results. The current online version only supports public votinigs and the manager has to know everybody's votes because of the client-server architecture, he is the one adding them up.
+  In such a way that nobody see each other's votes and the manager does not see anybody's vote either, while everybody can still check that their vote is correctly counted into the results. The current online version only supports public votings and the manager has to see everybody's votes because of the client-server architecture, since he is the one adding them up.
 - Communities can start issuing their own local currency. - 
-  The community can decide to create a locally accepted currency that the members can use to pay each other for services provided by each other for each other. Example: I have time to babysit your kids tonight,  I receive some ocal tokens, and next week you help giving my son some math lessons.
+  The community can decide to create a locally accepted currency that the members can use to pay each other for services provided by each other for each other. Example: I have time to babysit your kids tonight,  I receive some local tokens, and next week you help giving my son some math lessons.
   Local economies can be born, where the local currency is baced by local's services.
 
 ### Why a parachain?
