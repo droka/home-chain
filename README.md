@@ -133,6 +133,11 @@ The process is pretty straightforward. Subtrate provides all the node functional
 
 If the prize is won, the resources will be used to start the development work and make the conversion.
 
+### Identity management in Home-chain
+Identity will be managed by a modified version of the Identity pallet of Substrate. 
+
+There  is no root registrar needed for Home-chain. Anybody is allowed to launch a community, for example a new condominium, and once she does, she becomes the admin of that community. Admin can invite or add new members to the community andat the same time registrar an identity for the members. Eg. community "Building: Danube street 10" is created by Alice. So Alice can now registrar identity of Bob, as "Bob, owner of flat 101". Note that all this idenitity tells, is that in that specific community called "Building: Danube street 10", Bob proved to the admins that he is called Bob and he owns flat number 101. If he happens to be a dual citizen, whit a slightly different passport name "Bobby" and shows that to another building admin in the other country, he might very well get a second identity registered there with the name "Bobby, owner of flat 506"in that community. Identities are relevant in the scope of a community, and community admins work as identity registrar. The outside world can decide how strong they trust an identity given out by a certain community. If that community is a building with 10 flats, the assurance is obviously lower than if that community  is the "Republic of Hungary" (which's registered identities we call legal Passports).
+
 -----------------------------------------------------------------
 
 # AI extension to Liquid Democracy 
@@ -158,7 +163,7 @@ But if we could select very good delegates very easily, and all it would take is
    
    No system (human or AI) should get access to our private voting records!
 
-   Althout it is imaginable, that certain delegate candidates would intentionally de-anonimize their own private voting records in the hope of getting more voting power from others. In that case a strictly local running AI could read our votes and match that to de-anonymized voting records.
+   Although it is imaginable, that certain delegate candidates would intentionally de-anonimize their own private voting records in the hope of getting more voting power from others. In that case a strictly local running AI could read our votes and match that to de-anonymized voting records.
    
 3. It is not a replacement to the democratic voting process.
    
